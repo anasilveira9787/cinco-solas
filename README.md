@@ -1,4 +1,4 @@
-[Cover](https://cinco-solas.vercel/img.png)
+[Cover](https://raw.githubusercontent.com/anasilveira9787/cinco-solas/master/public/cover.png)
 
 # Os 5 Solas da Reforma
 
